@@ -32,20 +32,14 @@ This project involves an extensive analysis of a healthcare dataset. The analysi
    - **Age Distribution:** Visualization of the age distribution across different medical conditions or hospital types.
    - **Billing Analysis:** Investigation into the billing amounts based on various factors such as age, gender, and medical condition.
 
-   ![Example Plot 1](path_to_gender_distribution_plot.png)
-   ![Example Plot 2](path_to_age_distribution_plot.png)
-
 4. **Predictive Modeling:**
    - **Random Forest for Length of Stay Prediction:**
      - A Random Forest model is trained to predict the length of a patient's hospital stay based on various features.
      - The model's performance is evaluated using metrics such as Mean Squared Error (MSE) and R-squared.
      
-     ![Actual vs Predicted Length of Stay](path_to_length_of_stay_plot.png)
-     
    - **Cost Prediction:**
      - The model predicts the billing amount for hospital stays, and the results are visualized to compare predicted vs. actual costs.
      
-     ![Actual vs Predicted Billing Amount](path_to_billing_prediction_plot.png)
 
 5. **Conclusion:**
    - The analysis provides valuable insights into patient demographics, medical conditions, and hospital operations. Predictive models like Random Forest offer accurate predictions for key outcomes such as length of stay and billing amounts, which can aid in resource planning and cost management.
@@ -59,21 +53,6 @@ This project involves an extensive analysis of a healthcare dataset. The analysi
 
 3. **Run the Notebook:**
    - Open the notebook in Jupyter and execute the cells sequentially to perform the analysis and generate the results.
-
-### Visualizations:
-This project includes several key visualizations to help interpret the data and model results. Below are examples of the plots generated:
-
-1. **Gender Distribution:**
-   - ![Gender Distribution](path_to_gender_distribution_plot.png)
-
-2. **Age Distribution:**
-   - ![Age Distribution](path_to_age_distribution_plot.png)
-
-3. **Length of Stay Prediction:**
-   - ![Length of Stay Prediction](path_to_length_of_stay_plot.png)
-
-4. **Billing Amount Prediction:**
-   - ![Billing Amount Prediction](path_to_billing_prediction_plot.png)
 
 ### Conclusion:
 This health analysis project demonstrates the power of data-driven insights in healthcare management. By preprocessing the data, conducting exploratory analysis, and building predictive models, we can better understand patient needs and optimize hospital resources.
